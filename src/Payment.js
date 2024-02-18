@@ -132,3 +132,6 @@ function Payment() {
 }
 
 export default Payment
+
+//git config --global user.email "biniamdegu55@gmail.com"
+//git config --global user.name "biniam"
