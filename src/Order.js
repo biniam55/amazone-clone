@@ -24,6 +24,7 @@ function Order({ order }) {
                     hideButton
                 />
             ))}
+             <h3 className="order__total">Order Total: {value}</h3>
         </div>
     )
 }
